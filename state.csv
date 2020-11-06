@@ -1,0 +1,1935 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://covidindia.org/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+	<!-- This site is optimized with the Yoast SEO plugin v14.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>COVID-19 Tracker Updates For India For State Wise &amp; District Wise Data</title>
+	<meta name="description" content="Coronavirus (COVID-19) updates on cases, treatments, vaccines, &amp; Cure. Latest government advisories &amp; helpline number to prevent COVID-19 infection." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://covidindia.org/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale:alternate" content="hi_IN" />
+	<meta property="og:locale:alternate" content="ta_IN" />
+	<meta property="og:locale:alternate" content="te_IN" />
+	<meta property="og:locale:alternate" content="mr_IN" />
+	<meta property="og:locale:alternate" content="bn_IN" />
+	<meta property="og:locale:alternate" content="pa_IN" />
+	<meta property="og:locale:alternate" content="ml_IN" />
+	<meta property="og:locale:alternate" content="ur_PK" />
+	<meta property="og:locale:alternate" content="gu_IN" />
+	<meta property="og:locale:alternate" content="kn_IN" />
+	<meta property="og:locale:alternate" content="or_IN" />
+	<meta property="og:locale:alternate" content="as_IN" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="COVID-19 Tracker Updates For India For State Wise &amp; District Wise Data" />
+	<meta property="og:description" content="Coronavirus (COVID-19) updates on cases, treatments, vaccines, &amp; Cure. Latest government advisories &amp; helpline number to prevent COVID-19 infection." />
+	<meta property="og:url" content="https://covidindia.org/" />
+	<meta property="og:site_name" content="COVID-19" />
+	<meta property="article:publisher" content="https://www.facebook.com/COVIDIndia.org/" />
+	<meta property="article:modified_time" content="2020-09-18T03:54:48+00:00" />
+	<meta property="og:image" content="https://covidindia.org/wp-content/uploads/2020/06/COVIDIndia-Image-compressor.jpg" />
+	<meta property="og:image:width" content="2085" />
+	<meta property="og:image:height" content="1459" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@CovidindiaO" />
+	<meta name="twitter:site" content="@CovidindiaO" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://covidindia.org/#organization","name":"COVIDIndia.org","url":"https://covidindia.org/","sameAs":["https://www.facebook.com/COVIDIndia.org/","https://www.instagram.com/covidindia_org/","https://www.linkedin.com/company/covidindia-org/","https://twitter.com/CovidindiaO"],"logo":{"@type":"ImageObject","@id":"https://covidindia.org/#logo","inLanguage":"en-US","url":"https://covidindia.org/wp-content/uploads/2020/05/CIO-logo-with-tagline.001.png","width":367,"height":60,"caption":"COVIDIndia.org"},"image":{"@id":"https://covidindia.org/#logo"}},{"@type":"WebSite","@id":"https://covidindia.org/#website","url":"https://covidindia.org/","name":"COVID-19","description":"Tracking COVID-19 in India","publisher":{"@id":"https://covidindia.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://covidindia.org/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://covidindia.org/#primaryimage","inLanguage":"en-US","url":"https://covidindia.org/wp-content/uploads/2020/06/COVIDIndia-Image-compressor.jpg","width":2085,"height":1459},{"@type":"WebPage","@id":"https://covidindia.org/#webpage","url":"https://covidindia.org/","name":"COVID-19 Tracker Updates For India For State Wise & District Wise Data","isPartOf":{"@id":"https://covidindia.org/#website"},"about":{"@id":"https://covidindia.org/#organization"},"primaryImageOfPage":{"@id":"https://covidindia.org/#primaryimage"},"datePublished":"2020-03-04T13:48:41+00:00","dateModified":"2020-09-18T03:54:48+00:00","description":"Coronavirus (COVID-19) updates on cases, treatments, vaccines, & Cure. Latest government advisories & helpline number to prevent COVID-19 infection.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://covidindia.org/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="COVID-19 &raquo; Feed" href="https://covidindia.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="COVID-19 &raquo; Comments Feed" href="https://covidindia.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/covidindia.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='generate-fonts-css'  href='//fonts.googleapis.com/css?family=Poppins:regular' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://covidindia.org/wp-includes/css/dashicons.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='https://covidindia.org/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.12.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://covidindia.org/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='poll-maker-ays-css'  href='https://covidindia.org/wp-content/plugins/poll-maker/public/css/poll-maker-ays-public.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='https://covidindia.org/wp-content/themes/generatepress/css/all.min.css?ver=2.4.1' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+.single .entry-header{display:none;}.single .entry-content {margin-top:0;}.entry-header .entry-meta {display:none;}.post-navigation {display:none;}.single footer.entry-meta {display:none;}@media (max-width:768px){}
+body{background-color:#171717;color:#ffffff;}a, a:visited{color:#56a6f4;}a:visited{color:#56a6f4;}a:hover, a:focus, a:active{color:#56a6f4;}body .grid-container{max-width:1200px;}.wp-block-group__inner-container{max-width:1200px;margin-left:auto;margin-right:auto;}@media (max-width: 2000px) and (min-width: 769px){.inside-header{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-align:center;align-items:center;}.site-logo, .site-branding{margin-bottom:1.5em;}#site-navigation{margin:0 auto;}.header-widget{margin-top:1.5em;}}.site-header .header-image{width:310px;}body, button, input, select, textarea{font-family:"Poppins", sans-serif;font-weight:200;font-size:15px;}body{line-height:1.4;}p{margin-bottom:2em;}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:2em;}.top-bar{font-family:"Poppins", sans-serif;font-size:20px;}.main-title{font-family:"Poppins", sans-serif;font-size:20px;}.main-navigation a, .menu-toggle{font-family:"Poppins", sans-serif;font-weight:500;font-size:16px;}.main-navigation .main-nav ul ul li a{font-size:15px;}.widget-title{font-weight:700;text-transform:uppercase;font-size:17px;margin-bottom:19px;}.sidebar .widget, .footer-widgets .widget{font-size:16px;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.button:visited,.wp-block-button .wp-block-button__link{font-weight:300;text-transform:uppercase;font-size:13px;}h1{font-family:"Poppins", sans-serif;font-weight:500;font-size:20px;margin-bottom:15px;}h2{font-family:"Poppins", sans-serif;font-weight:400;font-size:18px;margin-bottom:10px;}h3{font-family:"Poppins", sans-serif;font-weight:400;font-size:16px;margin-bottom:5px;}h4{font-family:Helvetica;}h5{font-family:Helvetica;}h6{font-family:Helvetica;}.site-info{font-weight:300;font-size:13px;}@media (max-width:768px){.main-title{font-size:20px;}h1{font-size:20px;}h2{font-size:18px;}}.top-bar{background-color:#ffffff;color:#4a4a4a;}.top-bar a,.top-bar a:visited{color:#b9209a;}.top-bar a:hover{color:#303030;}.site-header{background-color:#ffffff;color:#606060;}.site-header a,.site-header a:visited{color:#3a3a3a;}.main-title a,.main-title a:hover,.main-title a:visited{color:#606060;}.site-description{color:#757575;}.main-navigation,.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul li a,.menu-toggle{color:#0a0a0a;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a{color:#b9209a;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#0a0a0a;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#b9209a;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#b9209a;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a{color:#b9209a;}.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul ul li a{color:#0a0a0a;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#1e73be;background-color:#ffffff;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#1e73be;background-color:#ffffff;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#1e73be;background-color:#ffffff;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#ffffff;background-color:#171717;}.inside-article a,.inside-article a:visited,.paging-navigation a,.paging-navigation a:visited,.comments-area a,.comments-area a:visited,.page-header a,.page-header a:visited{color:#56a6f4;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#56a6f4;}.entry-header h1,.page-header h1{color:#ffffff;}.entry-title a,.entry-title a:visited{color:#ffffff;}.entry-title a:hover{color:#ffffff;}.entry-meta{color:#878787;}.entry-meta a,.entry-meta a:visited{color:#878787;}.entry-meta a:hover{color:#1e73be;}h1{color:#ffffff;}h2{color:#56a6f4;}h3{color:#ffffff;}h4{color:#ffffff;}h5{color:#ffffff;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#ffffff;}.footer-widgets a,.footer-widgets a:visited{color:#262626;}.footer-widgets a:hover{color:#1abc9c;}.footer-widgets .widget-title{color:#262626;}.site-info{color:#262626;background-color:#ffffff;}.site-info a,.site-info a:visited{color:#262626;}.site-info a:hover{color:#757575;}.footer-bar .widget_nav_menu .current-menu-item a{color:#757575;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.button:visited,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#161616;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#1e73be;background-color:#ffffff;}.generate-back-to-top,.generate-back-to-top:visited{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}.generate-back-to-top:hover,.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}.inside-top-bar{padding:20px 5px 0px 5px;}.inside-header{padding:20px 30px 30px 30px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header, .wp-block-group__inner-container{padding:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-20px;width:calc(100% + 40px);max-width:calc(100% + 40px);}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:20px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:20px;}.one-container.both-sidebars .site-main{margin:0px 20px 0px 20px;}.separate-containers .widget, .separate-containers .site-main > *, .separate-containers .page-header, .widget-area .main-navigation{margin-bottom:0px;}.separate-containers .site-main{margin:0px;}.both-right.separate-containers .inside-left-sidebar{margin-right:0px;}.both-right.separate-containers .inside-right-sidebar{margin-left:0px;}.both-left.separate-containers .inside-left-sidebar{margin-right:0px;}.both-left.separate-containers .inside-right-sidebar{margin-left:0px;}.separate-containers .page-header-image, .separate-containers .page-header-contained, .separate-containers .page-header-image-single, .separate-containers .page-header-content-single{margin-top:0px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:0px;margin-bottom:0px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{padding-left:14px;padding-right:14px;line-height:20px;}.main-navigation .main-nav ul ul li a{padding:3px 14px 3px 14px;}.main-navigation ul ul{width:160px;}.navigation-search input{height:20px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:14px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:14px;}.menu-item-has-children ul .dropdown-menu-toggle{padding-top:3px;padding-bottom:3px;margin-top:-3px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:14px;}.widget-area .widget{padding:50px;}.footer-widgets{padding:50px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header, .wp-block-group__inner-container{padding:20px 5px 20px 5px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-5px;width:calc(100% + 10px);max-width:calc(100% + 10px);}}/* End cached CSS */.page .entry-content{margin-top:0px;}@media (max-width: 768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}@font-face {font-family: "GeneratePress";src:  url("https://covidindia.org/wp-content/themes/generatepress/fonts/generatepress.eot");src:  url("https://covidindia.org/wp-content/themes/generatepress/fonts/generatepress.eot#iefix") format("embedded-opentype"),  url("https://covidindia.org/wp-content/themes/generatepress/fonts/generatepress.woff2") format("woff2"),  url("https://covidindia.org/wp-content/themes/generatepress/fonts/generatepress.woff") format("woff"),  url("https://covidindia.org/wp-content/themes/generatepress/fonts/generatepress.ttf") format("truetype"),  url("https://covidindia.org/wp-content/themes/generatepress/fonts/generatepress.svg#GeneratePress") format("svg");font-weight: normal;font-style: normal;}.main-navigation .slideout-toggle a:before,.slide-opened .slideout-overlay .slideout-exit:before {font-family: GeneratePress;}.slideout-navigation .dropdown-menu-toggle:before {content: "\f107" !important;}.slideout-navigation .sfHover > a .dropdown-menu-toggle:before {content: "\f106" !important;}
+.navigation-branding .main-title{font-weight:bold;text-transform:none;font-size:20px;font-family:"Poppins", sans-serif;}@media (max-width: 768px){.navigation-branding .main-title{font-size:20px;}}
+@media (max-width: 768px){.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{line-height:40px;}.main-navigation .site-logo.navigation-logo img, .mobile-header-navigation .site-logo.mobile-header-logo img, .navigation-search input{height:40px;}}@media (max-width:768px){.inside-header{padding-top:0px;padding-bottom:5px;}}
+</style>
+<link rel='stylesheet' id='jet-popup-frontend-css'  href='https://covidindia.org/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-elements-css'  href='https://covidindia.org/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-elements-skin-css'  href='https://covidindia.org/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://covidindia.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-chosen-css'  href='https://covidindia.org/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-search-css'  href='https://covidindia.org/wp-content/plugins/jet-search/assets/css/jet-search.css?ver=2.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-tabs-frontend-css'  href='https://covidindia.org/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-tricks-frontend-css'  href='https://covidindia.org/wp-content/plugins/jet-tricks/assets/css/jet-tricks-frontend.css?ver=1.2.12' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://covidindia.org/wp-content/uploads/elementor/css/global.css?ver=1596097877' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-206-css'  href='https://covidindia.org/wp-content/uploads/elementor/css/post-206.css?ver=1596097877' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-304-css'  href='https://covidindia.org/wp-content/uploads/elementor/css/post-304.css?ver=1600401289' type='text/css' media='all' />
+<link rel='stylesheet' id='poll-maker-ays-admin-css'  href='https://covidindia.org/wp-content/plugins/poll-maker/admin/css/admin.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3409-css'  href='https://covidindia.org/wp-content/uploads/elementor/css/post-3409.css?ver=1596259007' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3434-css'  href='https://covidindia.org/wp-content/uploads/elementor/css/post-3434.css?ver=1596097877' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://covidindia.org/wp-content/tablepress-combined.min.css?ver=21' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css'  href='https://covidindia.org/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-blog-css'  href='https://covidindia.org/wp-content/plugins/gp-premium/blog/functions/css/style-min.css?ver=1.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-offside-css'  href='https://covidindia.org/wp-content/plugins/gp-premium/menu-plus/functions/css/offside.min.css?ver=1.8.3' type='text/css' media='all' />
+<style id='generate-offside-inline-css' type='text/css'>
+.slideout-navigation.main-navigation .main-nav ul li a{font-weight:normal;text-transform:none;}.slideout-navigation, .slideout-navigation a{color:#0a0a0a;}.slideout-navigation button.slideout-exit{color:#0a0a0a;padding-left:14px;padding-right:14px;}
+</style>
+<link rel='stylesheet' id='gp-premium-icons-css'  href='https://covidindia.org/wp-content/plugins/gp-premium/general/icons/icons.min.css?ver=1.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://covidindia.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.14'></script>
+<link rel='https://api.w.org/' href='https://covidindia.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://covidindia.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://covidindia.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://covidindia.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://covidindia.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcovidindia.org%2F" />
+				<style type="text/css">
+					@font-face { font-family:Helvetica Neu;src:url(https://covidindia.org/wp-content/uploads/2020/03/Helvetica35Thin_22435-1.woff) format('woff');font-display: auto;}				</style>
+				<link rel="alternate" href="https://covidindia.org/" hreflang="en" />
+<link rel="alternate" href="https://covidindia.org/hi/" hreflang="hi" />
+<link rel="alternate" href="https://covidindia.org/ta/" hreflang="ta" />
+<link rel="alternate" href="https://covidindia.org/te/" hreflang="te" />
+<link rel="alternate" href="https://covidindia.org/mr/" hreflang="mr" />
+<link rel="alternate" href="https://covidindia.org/bn/" hreflang="bn" />
+<link rel="alternate" href="https://covidindia.org/pa/" hreflang="pa" />
+<link rel="alternate" href="https://covidindia.org/ml/" hreflang="ml" />
+<link rel="alternate" href="https://covidindia.org/ur/" hreflang="ur" />
+<link rel="alternate" href="https://covidindia.org/gu/" hreflang="gu" />
+<link rel="alternate" href="https://covidindia.org/kn/" hreflang="kn" />
+<link rel="alternate" href="https://covidindia.org/or/" hreflang="ory" />
+<link rel="alternate" href="https://covidindia.org/as/" hreflang="as" />
+<meta name="viewport" content="width=device-width, initial-scale=1"><style type="text/css" id="sns_styles">.elementor-counter-number-prefix {
+  text-transform: none;
+  hyphens: manual;
+  line-height: 1;
+  font-weight: 600;
+  color: #fff;
+  font-family: "Poppins", poppins;
+  font-size: 39px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  
+  text-align: right;
+}
+
+.elementor-counter-number {
+  text-transform: none;
+  hyphens: manual;
+  line-height: 1;
+  font-weight: 600;
+  color: #fff !important;
+  font-family: "Poppins", poppins;
+  font-size: 24px !important;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  flex-grow:1;
+  white-space: pre-wrap;
+  text-align: center;
+  display: inherit;
+}
+
+.elementor-counter-number-suffix {
+  text-transform: none;
+  hyphens: manual;
+  line-height: 1;
+  font-weight: 600;
+  color: #fff;
+  font-family: "Poppins", poppins;
+  font-size: 39px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  text-align: left;
+}
+@media only screen and (max-width: 768px){
+	
+.elementor-counter-number{
+	font-size: 14px !important;
+}
+	
+}</style><script type="text/javascript" id="sns_global_scripts_in_head"><script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script></script><link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NRPZRXW');</script>
+<!-- End Google Tag Manager --><script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/map.js"></script>
+    <script src="https://code.highcharts.com/mapdata/countries/in/custom/in-all-disputed.js"></script>
+    <script src="https://code.highcharts.com/modules/series-label.js"></script>
+    <script src="https://code.highcharts.com/modules/annotations.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/data.js"></script><link rel="icon" href="https://covidindia.org/wp-content/uploads/2020/03/cropped-CoronaVirus-CDC_Whole_200130_01-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://covidindia.org/wp-content/uploads/2020/03/cropped-CoronaVirus-CDC_Whole_200130_01-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://covidindia.org/wp-content/uploads/2020/03/cropped-CoronaVirus-CDC_Whole_200130_01-180x180.png" />
+<meta name="msapplication-TileImage" content="https://covidindia.org/wp-content/uploads/2020/03/cropped-CoronaVirus-CDC_Whole_200130_01-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/* GeneratePress Site CSS */ 
+.page-content, .entry-content, .entry-summary {
+    margin: 0px;
+}
+.nf-form-fields-required{
+	display:none;
+}
+.nf-form-content{
+	margin:0px !important;
+}
+.nf-form-content label {
+    font-size: 15px !important;
+    line-height: 10px !important;
+}
+content .listselect-wrap .nf-field-element div, .nf-form-content input.ninja-forms-field, .nf-form-content select.ninja-forms-field:not([multiple]) {
+    height: 35px !important;
+}
+#nf-field-4{
+    padding-top: 0px !important;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-bottom: 0px !important;
+} 
+.nf-form-content .list-select-wrap .nf-field-element>div, .nf-form-content input:not([type=button]), .nf-form-content textarea {
+    background: #191F2B !important;
+    border: 1px solid #c4c4c4;
+    border-radius: 0;
+    box-shadow: none;
+    color: #ffffff !important;
+    /* transition: all .5s; */
+}
+
+.elementor-nav-menu--main .elementor-nav-menu a, .elementor-nav-menu--main .elementor-nav-menu a.highlighted, .elementor-nav-menu--main .elementor-nav-menu a:focus, .elementor-nav-menu--main .elementor-nav-menu a:hover{
+	padding: 0px;
+}
+
+thead th {
+	background-color: #5b1859 !important;
+}
+
+tfoot th {
+	background-color: #5b1859 !important;
+}
+
+.tablepress .even td {
+	background-color: #283549 !important;
+}
+
+.tablepress .odd td {
+	background-color: #283549 !important;
+}
+.dataTables_wrapper .dataTables_filter input {
+    width: 68%;
+}
+
+label {
+	display: inline-block;
+	max-width: 100%;
+	margin-bottom: 5px;
+	font-weight: 400 !important;
+}
+
+.dataTables_wrapper label input,
+.dataTables_wrapper label select {
+	display: inline;
+	padding: 5px 0 5px 0 !important;
+	background: #283549 !important;
+}
+
+.tablepress tfoot th,
+.tablepress thead th {
+	font-weight: 400 !important;
+}
+.tablepress td, .tablepress th {
+    padding: 8px;
+    border: none;
+    background: 0 0;
+    text-align: left;
+    float: none!important;
+    font-weight: 600;
+    font-weight: 200 !important;
+}
+
+
+.dataTables_paginate a {
+	color: #fff !important;
+}
+tablepress tbody td, .tablepress tfoot th {
+    border-top: 1px solid #ddd;
+    font-size: 12px;
+}
+.tablepress tfoot th, .tablepress thead th {
+    background-color: #d9edf7;
+    font-weight: 500;
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+table.dataTable.dtr-inline.collapsed>tbody>tr[role=row]>td:first-child:before,
+table.dataTable.dtr-inline.collapsed>tbody>tr[role=row]>th:first-child:before {
+	top: 8px;
+	left: 4px;
+	height: 16px;
+	width: 16px;
+	display: block;
+	position: absolute;
+	color: #fff;
+	border: 2px solid #000;
+	border-radius: 16px;
+	box-shadow: 0 0 3px #444;
+	box-sizing: content-box;
+	text-align: center;
+	text-indent: 0 !important;
+	font-family: 'Courier New', Courier, monospace;
+	line-height: 16px;
+	content: '+';
+	background-color: #b9209a !important;
+}
+.dataTables_filter {
+    float: right;
+    white-space: initial;
+    font-size: 12px;
+    font-weight: 100;
+}
+.dataTables_length{
+	font-size: 12px;
+}
+.dataTables_info{
+  font-size: 12px;	
+}
+.dataTables_paginate .paging_simple{
+	font-size: 12px;
+}
+
+.b, strong {
+    font-weight: 500;
+}
+.elementor-nav-menu .sub-arrow {
+    font-size: 16px;
+    line-height: 1;
+    padding: 10px 0 10px 5px;
+}
+.elementor-social-icon-whatsapp{
+	background: linear-gradient(140deg, #D4208B 0%, #0D55A6 100%) !important;
+	font-size: 22px !important;
+    padding: 0.2em !important;
+}
+
+.elementor-social-icon-facebook{
+	background: linear-gradient(140deg, #D4208B 0%, #0D55A6 100%) !important;
+	font-size: 22px !important;
+    padding: 0.2em !important;
+}
+.elementor-social-icon-twitter{
+	background: linear-gradient(140deg, #D4208B 0%, #0D55A6 100%) !important;
+	font-size: 22px !important;
+    padding: 0.2em !important;
+}
+.elementor-social-icon-envelope{
+	background: linear-gradient(140deg, #D4208B 0%, #0D55A6 100%) !important;
+	font-size: 22px !important;
+    padding: 0.2em !important;
+}
+.elementor-social-icons-wrapper{
+	margin-bottom: -10px !important;
+}
+
+.elementor-widget-heading .elementor-heading-title{
+	margin-top: 5px !important;
+	margin-bottom: 15px !important;
+}
+
+li{
+	font-weight: 200 !important;
+}
+ul, ol {
+    margin-top: 05px;
+    margin-bottom: 10px;
+	  font-weight: 200;
+	text-align: justify;
+}
+h1{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+h2{
+	margin-top: 5px;
+}
+h3{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+p{
+	margin-top: 5px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+
+.entry-title{
+	display:none;
+}
+
+
+hr {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #ddd;
+}
+
+.page-header-meta {
+	font-size: 14px;
+}
+
+.page-header-meta span.author:before {
+	content: "|";
+	padding-left: 5px;
+	padding-right: 5px;
+	opacity: 0.8;
+}
+
+.post-image img {
+    padding: 5px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+
+@media only screen and (max-width: 768px){
+
+	
+	
+ul {
+    margin: 0 0 0.5em 1.5em;
+}
+
+
+tablepress tbody td, .tablepress tfoot th {
+    border-top: 1px solid #ddd;
+    font-size: 9px;
+}
+.tablepress tfoot th, .tablepress thead th {
+    background-color: #d9edf7;
+    font-weight: 700;
+    font-size: 9px;
+    vertical-align: middle;
+}
+.tablepress td, .tablepress th {
+    padding: 8px;
+    border: none;
+    background: 0 0;
+    text-align: left;
+    float: none!important;
+    font-weight: 600;
+}
+.dataTables_filter {
+    float: right;
+    white-space: initial;
+    font-size: 9px;
+    font-weight: 100;
+	  width:46%;
+}
+.dataTables_length{
+	font-size: 9px;
+	width:28%;
+}
+.dataTables_info{
+  font-size: 9px;	
+}
+.dataTables_paginate .paging_simple{
+	font-size: 9px;
+}
+.row-hover{
+	font-size: 9px;
+}
+	
+
+.dataTables_wrapper .dataTables_filter input {
+    width: 68%;
+}
+		
+
+.dataTables_filter{
+    overflow: hidden;
+}
+	
+	
+}
+
+
+@media only screen and (max-width: 420px) {
+#tablepress-31 {
+    font-size: 10px;
+}
+	.container {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+	
+.dataTables_wrapper .dataTables_filter input {
+    width: 68%;
+}
+
+	}
+
+
+
+/* End GeneratePress Site CSS */		</style>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22110756-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-22110756-5');
+</script>
+
+</head>
+
+<body class="home page-template-default page page-id-304 wp-embed-responsive post-image-aligned-center slideout-enabled slideout-mobile sticky-menu-fade no-sidebar nav-float-right fluid-header separate-containers active-footer-widgets-1 header-aligned-center dropdown-click dropdown-click-menu-item featured-image-active elementor-default elementor-kit-206 elementor-page elementor-page-304" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<div data-elementor-type="header" data-elementor-id="3409" class="elementor elementor-3409 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<section class="elementor-element elementor-element-9fd23ce elementor-section-stretched elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="9fd23ce" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-033209c elementor-hidden-desktop elementor-hidden-tablet elementor-column elementor-col-33 elementor-top-column" data-id="033209c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bea9861 elementor-nav-menu--stretch elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="bea9861" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;full_width&quot;:&quot;stretch&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-bea9861" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1941"><a href="#" class="elementor-item elementor-item-anchor">Tracking COVID19</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-304 current_page_item menu-item-320"><a href="https://covidindia.org/" aria-current="page" class="elementor-sub-item elementor-item-active">Tracking COVID In India</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3172"><a href="https://covidindia.org/state-wise-covid-info/" class="elementor-sub-item">COVID Info By State</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://covidindia.org/testing/" class="elementor-sub-item">Testing Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764"><a href="https://covidindia.org/treatment/" class="elementor-sub-item">Treatment</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://covidindia.org/quarantine/" class="elementor-sub-item">Quarantine</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3127"><a href="https://covidindia.org/travel-guidelines/" class="elementor-sub-item">Rules &#038; Guidelines For Travel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2737"><a href="https://covidindia.org/current-rules-and-regulations/" class="elementor-sub-item">Current Rules &#038; Guidelines</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="https://covidindia.org/for-workplace/" class="elementor-sub-item">Rules &#038; Guidelines For Workplaces</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031"><a href="https://covidindia.org/covid-19-prevention/" class="elementor-sub-item">Rules &#038; Guidelines For RWA&#8217;s/Societies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942"><a href="https://covidindia.org/world-current-situation/" class="elementor-sub-item">COVID Global Tracker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1536"><a href="#" class="elementor-item elementor-item-anchor">Understanding COVID</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://covidindia.org/biology-and-treatment/" class="elementor-sub-item">Biology Of SARS-COV-2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3987"><a href="https://covidindia.org/best-covid19-research-papers/" class="elementor-sub-item">Best Research On COVID</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="https://covidindia.org/protect-yourself/" class="elementor-sub-item">How To Protect Yourself</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2907"><a href="https://covidindia.org/how-stuff-works/" class="elementor-sub-item">How Medical Stuff Works</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://covidindia.org/key-insights/" class="elementor-sub-item">Key Insights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1058"><a href="#" class="elementor-item elementor-item-anchor">#IndiaFightsCorona</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a href="https://covidindia.org/covid-awareness-videos/" class="elementor-sub-item">COVID Awareness Videos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3832"><a href="https://covidindia.org/share-your-story/" class="elementor-sub-item">COVID-19 Survivor Stories</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2774"><a href="https://covidindia.org/fake-news-detective/" class="elementor-sub-item">Fake News Detective</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3417"><a href="https://covidindia.org/poll/" class="elementor-sub-item">India Speaks Polls</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3244"><a href="#" class="elementor-item elementor-item-anchor">CIO Response</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="https://covidindia.org/open-data/" class="elementor-sub-item">COVID Data</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3245"><a href="https://covidindia.org/find-medical-services/" class="elementor-sub-item">Find Medical Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3722"><a href="https://covidindia.org/partners/" class="elementor-sub-item">Partners</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://covidindia.org/donation/" class="elementor-sub-item">Donate</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4347a08 elementor-column elementor-col-33 elementor-top-column" data-id="4347a08" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2f25fa4 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="2f25fa4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://covidindia.org/">
+							<img width="1024" height="125" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20125'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/07/COVIDIndia-org-logo.png" class="attachment-large size-large lazy" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bffc48c elementor-column elementor-col-33 elementor-top-column" data-id="bffc48c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4fd61f5 elementor-nav-menu__align-right elementor-nav-menu--dropdown-none elementor-nav-menu--indicator-classic elementor-widget elementor-widget-nav-menu" data-id="4fd61f5" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-4fd61f5" class="elementor-nav-menu"><li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-3413"><a href="#pll_switcher" class="elementor-item elementor-item-anchor">English</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="lang-item lang-item-48 lang-item-en current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-3413-en"><a href="https://covidindia.org/" hreflang="en-US" lang="en-US" class="elementor-sub-item">English</a></li>
+	<li class="lang-item lang-item-45 lang-item-hi menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-hi"><a href="https://covidindia.org/hi/" hreflang="hi-IN" lang="hi-IN" class="elementor-sub-item">हिन्दी</a></li>
+	<li class="lang-item lang-item-57 lang-item-ta menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ta"><a href="https://covidindia.org/ta/" hreflang="ta-IN" lang="ta-IN" class="elementor-sub-item">தமிழ்</a></li>
+	<li class="lang-item lang-item-91 lang-item-te menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-te"><a href="https://covidindia.org/te/" hreflang="te" lang="te" class="elementor-sub-item">తెలుగు</a></li>
+	<li class="lang-item lang-item-95 lang-item-mr menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-mr"><a href="https://covidindia.org/mr/" hreflang="mr" lang="mr" class="elementor-sub-item">मराठी</a></li>
+	<li class="lang-item lang-item-104 lang-item-bn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-bn"><a href="https://covidindia.org/bn/" hreflang="bn-BD" lang="bn-BD" class="elementor-sub-item">বাংলা</a></li>
+	<li class="lang-item lang-item-110 lang-item-pa menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-pa"><a href="https://covidindia.org/pa/" hreflang="pa-IN" lang="pa-IN" class="elementor-sub-item">ਪੰਜਾਬੀ</a></li>
+	<li class="lang-item lang-item-116 lang-item-ml menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ml"><a href="https://covidindia.org/ml/" hreflang="ml-IN" lang="ml-IN" class="elementor-sub-item">മലയാളം</a></li>
+	<li class="lang-item lang-item-121 lang-item-ur menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ur"><a href="https://covidindia.org/ur/" hreflang="ur" lang="ur" class="elementor-sub-item">اردو</a></li>
+	<li class="lang-item lang-item-126 lang-item-gu menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-gu"><a href="https://covidindia.org/gu/" hreflang="gu" lang="gu" class="elementor-sub-item">ગુજરાતી</a></li>
+	<li class="lang-item lang-item-131 lang-item-kn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-kn"><a href="https://covidindia.org/kn/" hreflang="kn" lang="kn" class="elementor-sub-item">ಕನ್ನಡ</a></li>
+	<li class="lang-item lang-item-135 lang-item-or menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-or"><a href="https://covidindia.org/or/" hreflang="ory" lang="ory" class="elementor-sub-item">ଓଡିଆ</a></li>
+	<li class="lang-item lang-item-146 lang-item-as menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-as"><a href="https://covidindia.org/as/" hreflang="as" lang="as" class="elementor-sub-item">অসমীয়া</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-4fd61f5" class="elementor-nav-menu"><li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-3413"><a href="#pll_switcher" class="elementor-item elementor-item-anchor">English</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="lang-item lang-item-48 lang-item-en current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-3413-en"><a href="https://covidindia.org/" hreflang="en-US" lang="en-US" class="elementor-sub-item">English</a></li>
+	<li class="lang-item lang-item-45 lang-item-hi menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-hi"><a href="https://covidindia.org/hi/" hreflang="hi-IN" lang="hi-IN" class="elementor-sub-item">हिन्दी</a></li>
+	<li class="lang-item lang-item-57 lang-item-ta menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ta"><a href="https://covidindia.org/ta/" hreflang="ta-IN" lang="ta-IN" class="elementor-sub-item">தமிழ்</a></li>
+	<li class="lang-item lang-item-91 lang-item-te menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-te"><a href="https://covidindia.org/te/" hreflang="te" lang="te" class="elementor-sub-item">తెలుగు</a></li>
+	<li class="lang-item lang-item-95 lang-item-mr menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-mr"><a href="https://covidindia.org/mr/" hreflang="mr" lang="mr" class="elementor-sub-item">मराठी</a></li>
+	<li class="lang-item lang-item-104 lang-item-bn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-bn"><a href="https://covidindia.org/bn/" hreflang="bn-BD" lang="bn-BD" class="elementor-sub-item">বাংলা</a></li>
+	<li class="lang-item lang-item-110 lang-item-pa menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-pa"><a href="https://covidindia.org/pa/" hreflang="pa-IN" lang="pa-IN" class="elementor-sub-item">ਪੰਜਾਬੀ</a></li>
+	<li class="lang-item lang-item-116 lang-item-ml menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ml"><a href="https://covidindia.org/ml/" hreflang="ml-IN" lang="ml-IN" class="elementor-sub-item">മലയാളം</a></li>
+	<li class="lang-item lang-item-121 lang-item-ur menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ur"><a href="https://covidindia.org/ur/" hreflang="ur" lang="ur" class="elementor-sub-item">اردو</a></li>
+	<li class="lang-item lang-item-126 lang-item-gu menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-gu"><a href="https://covidindia.org/gu/" hreflang="gu" lang="gu" class="elementor-sub-item">ગુજરાતી</a></li>
+	<li class="lang-item lang-item-131 lang-item-kn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-kn"><a href="https://covidindia.org/kn/" hreflang="kn" lang="kn" class="elementor-sub-item">ಕನ್ನಡ</a></li>
+	<li class="lang-item lang-item-135 lang-item-or menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-or"><a href="https://covidindia.org/or/" hreflang="ory" lang="ory" class="elementor-sub-item">ଓଡିଆ</a></li>
+	<li class="lang-item lang-item-146 lang-item-as menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-as"><a href="https://covidindia.org/as/" hreflang="as" lang="as" class="elementor-sub-item">অসমীয়া</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-62220be elementor-section-stretched elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="62220be" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9fce6d0 elementor-column elementor-col-50 elementor-top-column" data-id="9fce6d0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-938a5d4 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="938a5d4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://covidindia.org/">
+							<img width="1024" height="125" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20125'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/07/COVIDIndia-org-logo.png" class="attachment-large size-large lazy" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-d0cae7b elementor-column elementor-col-50 elementor-top-column" data-id="d0cae7b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7257b26 elementor-nav-menu__align-right elementor-nav-menu--dropdown-none elementor-nav-menu--indicator-classic elementor-widget elementor-widget-nav-menu" data-id="7257b26" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-7257b26" class="elementor-nav-menu"><li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-3413"><a href="#pll_switcher" class="elementor-item elementor-item-anchor">English</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="lang-item lang-item-48 lang-item-en current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-3413-en"><a href="https://covidindia.org/" hreflang="en-US" lang="en-US" class="elementor-sub-item">English</a></li>
+	<li class="lang-item lang-item-45 lang-item-hi menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-hi"><a href="https://covidindia.org/hi/" hreflang="hi-IN" lang="hi-IN" class="elementor-sub-item">हिन्दी</a></li>
+	<li class="lang-item lang-item-57 lang-item-ta menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ta"><a href="https://covidindia.org/ta/" hreflang="ta-IN" lang="ta-IN" class="elementor-sub-item">தமிழ்</a></li>
+	<li class="lang-item lang-item-91 lang-item-te menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-te"><a href="https://covidindia.org/te/" hreflang="te" lang="te" class="elementor-sub-item">తెలుగు</a></li>
+	<li class="lang-item lang-item-95 lang-item-mr menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-mr"><a href="https://covidindia.org/mr/" hreflang="mr" lang="mr" class="elementor-sub-item">मराठी</a></li>
+	<li class="lang-item lang-item-104 lang-item-bn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-bn"><a href="https://covidindia.org/bn/" hreflang="bn-BD" lang="bn-BD" class="elementor-sub-item">বাংলা</a></li>
+	<li class="lang-item lang-item-110 lang-item-pa menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-pa"><a href="https://covidindia.org/pa/" hreflang="pa-IN" lang="pa-IN" class="elementor-sub-item">ਪੰਜਾਬੀ</a></li>
+	<li class="lang-item lang-item-116 lang-item-ml menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ml"><a href="https://covidindia.org/ml/" hreflang="ml-IN" lang="ml-IN" class="elementor-sub-item">മലയാളം</a></li>
+	<li class="lang-item lang-item-121 lang-item-ur menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ur"><a href="https://covidindia.org/ur/" hreflang="ur" lang="ur" class="elementor-sub-item">اردو</a></li>
+	<li class="lang-item lang-item-126 lang-item-gu menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-gu"><a href="https://covidindia.org/gu/" hreflang="gu" lang="gu" class="elementor-sub-item">ગુજરાતી</a></li>
+	<li class="lang-item lang-item-131 lang-item-kn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-kn"><a href="https://covidindia.org/kn/" hreflang="kn" lang="kn" class="elementor-sub-item">ಕನ್ನಡ</a></li>
+	<li class="lang-item lang-item-135 lang-item-or menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-or"><a href="https://covidindia.org/or/" hreflang="ory" lang="ory" class="elementor-sub-item">ଓଡିଆ</a></li>
+	<li class="lang-item lang-item-146 lang-item-as menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-as"><a href="https://covidindia.org/as/" hreflang="as" lang="as" class="elementor-sub-item">অসমীয়া</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-7257b26" class="elementor-nav-menu"><li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-3413"><a href="#pll_switcher" class="elementor-item elementor-item-anchor">English</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="lang-item lang-item-48 lang-item-en current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-3413-en"><a href="https://covidindia.org/" hreflang="en-US" lang="en-US" class="elementor-sub-item">English</a></li>
+	<li class="lang-item lang-item-45 lang-item-hi menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-hi"><a href="https://covidindia.org/hi/" hreflang="hi-IN" lang="hi-IN" class="elementor-sub-item">हिन्दी</a></li>
+	<li class="lang-item lang-item-57 lang-item-ta menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ta"><a href="https://covidindia.org/ta/" hreflang="ta-IN" lang="ta-IN" class="elementor-sub-item">தமிழ்</a></li>
+	<li class="lang-item lang-item-91 lang-item-te menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-te"><a href="https://covidindia.org/te/" hreflang="te" lang="te" class="elementor-sub-item">తెలుగు</a></li>
+	<li class="lang-item lang-item-95 lang-item-mr menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-mr"><a href="https://covidindia.org/mr/" hreflang="mr" lang="mr" class="elementor-sub-item">मराठी</a></li>
+	<li class="lang-item lang-item-104 lang-item-bn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-bn"><a href="https://covidindia.org/bn/" hreflang="bn-BD" lang="bn-BD" class="elementor-sub-item">বাংলা</a></li>
+	<li class="lang-item lang-item-110 lang-item-pa menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-pa"><a href="https://covidindia.org/pa/" hreflang="pa-IN" lang="pa-IN" class="elementor-sub-item">ਪੰਜਾਬੀ</a></li>
+	<li class="lang-item lang-item-116 lang-item-ml menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ml"><a href="https://covidindia.org/ml/" hreflang="ml-IN" lang="ml-IN" class="elementor-sub-item">മലയാളം</a></li>
+	<li class="lang-item lang-item-121 lang-item-ur menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-ur"><a href="https://covidindia.org/ur/" hreflang="ur" lang="ur" class="elementor-sub-item">اردو</a></li>
+	<li class="lang-item lang-item-126 lang-item-gu menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-gu"><a href="https://covidindia.org/gu/" hreflang="gu" lang="gu" class="elementor-sub-item">ગુજરાતી</a></li>
+	<li class="lang-item lang-item-131 lang-item-kn menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-kn"><a href="https://covidindia.org/kn/" hreflang="kn" lang="kn" class="elementor-sub-item">ಕನ್ನಡ</a></li>
+	<li class="lang-item lang-item-135 lang-item-or menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-or"><a href="https://covidindia.org/or/" hreflang="ory" lang="ory" class="elementor-sub-item">ଓଡିଆ</a></li>
+	<li class="lang-item lang-item-146 lang-item-as menu-item menu-item-type-custom menu-item-object-custom menu-item-3413-as"><a href="https://covidindia.org/as/" hreflang="as" lang="as" class="elementor-sub-item">অসমীয়া</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7181939 elementor-section-stretched elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7181939" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d983b12 elementor-column elementor-col-100 elementor-top-column" data-id="d983b12" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bd5ba67 elementor-nav-menu__align-center elementor-nav-menu--indicator-angle elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="bd5ba67" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-bd5ba67" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1941"><a href="#" class="elementor-item elementor-item-anchor">Tracking COVID19</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-304 current_page_item menu-item-320"><a href="https://covidindia.org/" aria-current="page" class="elementor-sub-item elementor-item-active">Tracking COVID In India</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3172"><a href="https://covidindia.org/state-wise-covid-info/" class="elementor-sub-item">COVID Info By State</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://covidindia.org/testing/" class="elementor-sub-item">Testing Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764"><a href="https://covidindia.org/treatment/" class="elementor-sub-item">Treatment</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://covidindia.org/quarantine/" class="elementor-sub-item">Quarantine</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3127"><a href="https://covidindia.org/travel-guidelines/" class="elementor-sub-item">Rules &#038; Guidelines For Travel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2737"><a href="https://covidindia.org/current-rules-and-regulations/" class="elementor-sub-item">Current Rules &#038; Guidelines</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="https://covidindia.org/for-workplace/" class="elementor-sub-item">Rules &#038; Guidelines For Workplaces</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031"><a href="https://covidindia.org/covid-19-prevention/" class="elementor-sub-item">Rules &#038; Guidelines For RWA&#8217;s/Societies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942"><a href="https://covidindia.org/world-current-situation/" class="elementor-sub-item">COVID Global Tracker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1536"><a href="#" class="elementor-item elementor-item-anchor">Understanding COVID</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://covidindia.org/biology-and-treatment/" class="elementor-sub-item">Biology Of SARS-COV-2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3987"><a href="https://covidindia.org/best-covid19-research-papers/" class="elementor-sub-item">Best Research On COVID</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="https://covidindia.org/protect-yourself/" class="elementor-sub-item">How To Protect Yourself</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2907"><a href="https://covidindia.org/how-stuff-works/" class="elementor-sub-item">How Medical Stuff Works</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://covidindia.org/key-insights/" class="elementor-sub-item">Key Insights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1058"><a href="#" class="elementor-item elementor-item-anchor">#IndiaFightsCorona</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a href="https://covidindia.org/covid-awareness-videos/" class="elementor-sub-item">COVID Awareness Videos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3832"><a href="https://covidindia.org/share-your-story/" class="elementor-sub-item">COVID-19 Survivor Stories</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2774"><a href="https://covidindia.org/fake-news-detective/" class="elementor-sub-item">Fake News Detective</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3417"><a href="https://covidindia.org/poll/" class="elementor-sub-item">India Speaks Polls</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3244"><a href="#" class="elementor-item elementor-item-anchor">CIO Response</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="https://covidindia.org/open-data/" class="elementor-sub-item">COVID Data</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3245"><a href="https://covidindia.org/find-medical-services/" class="elementor-sub-item">Find Medical Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3722"><a href="https://covidindia.org/partners/" class="elementor-sub-item">Partners</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://covidindia.org/donation/" class="elementor-sub-item">Donate</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-bd5ba67" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1941"><a href="#" class="elementor-item elementor-item-anchor">Tracking COVID19</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-304 current_page_item menu-item-320"><a href="https://covidindia.org/" aria-current="page" class="elementor-sub-item elementor-item-active">Tracking COVID In India</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3172"><a href="https://covidindia.org/state-wise-covid-info/" class="elementor-sub-item">COVID Info By State</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://covidindia.org/testing/" class="elementor-sub-item">Testing Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764"><a href="https://covidindia.org/treatment/" class="elementor-sub-item">Treatment</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://covidindia.org/quarantine/" class="elementor-sub-item">Quarantine</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3127"><a href="https://covidindia.org/travel-guidelines/" class="elementor-sub-item">Rules &#038; Guidelines For Travel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2737"><a href="https://covidindia.org/current-rules-and-regulations/" class="elementor-sub-item">Current Rules &#038; Guidelines</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="https://covidindia.org/for-workplace/" class="elementor-sub-item">Rules &#038; Guidelines For Workplaces</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031"><a href="https://covidindia.org/covid-19-prevention/" class="elementor-sub-item">Rules &#038; Guidelines For RWA&#8217;s/Societies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942"><a href="https://covidindia.org/world-current-situation/" class="elementor-sub-item">COVID Global Tracker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1536"><a href="#" class="elementor-item elementor-item-anchor">Understanding COVID</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://covidindia.org/biology-and-treatment/" class="elementor-sub-item">Biology Of SARS-COV-2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3987"><a href="https://covidindia.org/best-covid19-research-papers/" class="elementor-sub-item">Best Research On COVID</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="https://covidindia.org/protect-yourself/" class="elementor-sub-item">How To Protect Yourself</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2907"><a href="https://covidindia.org/how-stuff-works/" class="elementor-sub-item">How Medical Stuff Works</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://covidindia.org/key-insights/" class="elementor-sub-item">Key Insights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1058"><a href="#" class="elementor-item elementor-item-anchor">#IndiaFightsCorona</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a href="https://covidindia.org/covid-awareness-videos/" class="elementor-sub-item">COVID Awareness Videos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3832"><a href="https://covidindia.org/share-your-story/" class="elementor-sub-item">COVID-19 Survivor Stories</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2774"><a href="https://covidindia.org/fake-news-detective/" class="elementor-sub-item">Fake News Detective</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3417"><a href="https://covidindia.org/poll/" class="elementor-sub-item">India Speaks Polls</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3244"><a href="#" class="elementor-item elementor-item-anchor">CIO Response</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="https://covidindia.org/open-data/" class="elementor-sub-item">COVID Data</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3245"><a href="https://covidindia.org/find-medical-services/" class="elementor-sub-item">Find Medical Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3722"><a href="https://covidindia.org/partners/" class="elementor-sub-item">Partners</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://covidindia.org/donation/" class="elementor-sub-item">Donate</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+					</div>
+		</div>
+		</div>
+		
+	<div id="page" class="hfeed site grid-container container grid-parent">
+				<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100">
+		<main id="main" class="site-main">
+			
+<article id="post-304" class="post-304 page type-page status-publish has-post-thumbnail" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+		<div class="entry-content" itemprop="text">
+					<div data-elementor-type="wp-page" data-elementor-id="304" class="elementor elementor-304" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-63d718d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="63d718d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-dc2fec8 elementor-hidden-desktop elementor-hidden-tablet elementor-column elementor-col-100 elementor-top-column" data-id="dc2fec8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-9e8fa2a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="9e8fa2a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c9a3dc8 elementor-column elementor-col-100 elementor-inner-column" data-id="c9a3dc8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0817dcb elementor-widget elementor-widget-heading" data-id="0817dcb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">What's New</h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b2dcb59 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="b2dcb59" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5f9d8f3 elementor-column elementor-col-100 elementor-inner-column" data-id="5f9d8f3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-26b2a74 elementor-widget elementor-widget-text-editor" data-id="26b2a74" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul><li><a href="https://covidindia.org/best-covid19-research-papers/"><span style="color: #ffffff;">Best of</span> COVID-19 research papers</a></li><li><a href="https://covidindia.org/poll/" target="_blank" rel="noopener"><span style="color: #ffffff;">Do you think you have/had COVID? &#8211; </span>Vote Now</a></li></ul></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-53548dd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="53548dd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-44e6e0a elementor-column elementor-col-50 elementor-top-column" data-id="44e6e0a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-3090625 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3090625" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9960933 elementor-column elementor-col-100 elementor-inner-column" data-id="9960933" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-aceece0 elementor-widget elementor-widget-heading" data-id="aceece0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Total Cases - 5214889 <span style="font-size: 13px;">(+96423)</span></h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f032d3d elementor-widget elementor-widget-text-editor" data-id="f032d3d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">[Updated on Sep 18, 09:23 am]</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3044600 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3044600" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-014a473 elementor-column elementor-col-25 elementor-inner-column" data-id="014a473" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-74698c8 elementor-widget elementor-widget-image" data-id="74698c8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="48" height="44" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2044'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/07/1f.png" class="attachment-large size-large lazy" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6f2c663 elementor-widget elementor-widget-text-editor" data-id="6f2c663" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Active</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1801ce0 elementor-widget elementor-widget-text-editor" data-id="1801ce0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">1018099</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0ac43cf elementor-widget elementor-widget-text-editor" data-id="0ac43cf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">+7746</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9d7c1d1 elementor-column elementor-col-25 elementor-inner-column" data-id="9d7c1d1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5d0da79 elementor-widget elementor-widget-image" data-id="5d0da79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="48" height="44" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2044'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/07/2f.png" class="attachment-large size-large lazy" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d9536c3 elementor-widget elementor-widget-text-editor" data-id="d9536c3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Recovered</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d112f0a elementor-widget elementor-widget-text-editor" data-id="d112f0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">4111990</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0fc4aa0 elementor-widget elementor-widget-text-editor" data-id="0fc4aa0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">+87506</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-fc4dd84 elementor-column elementor-col-25 elementor-inner-column" data-id="fc4dd84" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1fe503d elementor-widget elementor-widget-image" data-id="1fe503d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="44" height="44" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2044%2044'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/07/3f.png" class="attachment-large size-large lazy" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c1efbc4 elementor-widget elementor-widget-text-editor" data-id="c1efbc4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Deaths</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-578f531 elementor-widget elementor-widget-text-editor" data-id="578f531" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">84800</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0093072 elementor-widget elementor-widget-text-editor" data-id="0093072" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">+1171</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-919c138 elementor-column elementor-col-25 elementor-inner-column" data-id="919c138" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7c8951d elementor-widget elementor-widget-image" data-id="7c8951d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="54" height="42" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2054%2042'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/07/4f.png" class="attachment-large size-large lazy" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-150bcff elementor-widget elementor-widget-text-editor" data-id="150bcff" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Tests Done</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-700a9e3 elementor-widget elementor-widget-text-editor" data-id="700a9e3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">61572343</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2df2689 elementor-widget elementor-widget-text-editor" data-id="2df2689" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">+1006615</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-baab1fd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="baab1fd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e9f5895 elementor-column elementor-col-100 elementor-inner-column" data-id="e9f5895" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ee18883 elementor-nav-menu--dropdown-none elementor-nav-menu__align-left elementor-nav-menu--indicator-classic elementor-widget elementor-widget-nav-menu" data-id="ee18883" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-ee18883" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1380"><a href="#" class="elementor-item elementor-item-anchor">Choose State</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a href="https://covidindia.org/andaman-and-nicobar-islands/" class="elementor-sub-item">Andaman &#038; Nicobar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1546"><a href="https://covidindia.org/andhra-pradesh/" class="elementor-sub-item">Andhra Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1497"><a href="https://covidindia.org/arunachal-pradesh/" class="elementor-sub-item">Arunachal Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1496"><a href="https://covidindia.org/assam/" class="elementor-sub-item">Assam</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a href="https://covidindia.org/bihar/" class="elementor-sub-item">Bihar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://covidindia.org/chhattisgarh/" class="elementor-sub-item">Chhattisgarh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1468"><a href="https://covidindia.org/chandigarh/" class="elementor-sub-item">Chandigarh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1662"><a href="https://covidindia.org/delhi/" class="elementor-sub-item">Delhi</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925"><a href="https://covidindia.org/dadar-nagar-haveli-and-damand-diu/" class="elementor-sub-item">Dadar &#038; Nagar Haveli And Damand &#038; Diu</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1575"><a href="https://covidindia.org/goa/" class="elementor-sub-item">Goa</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://covidindia.org/gujarat/" class="elementor-sub-item">Gujarat</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1395"><a href="https://covidindia.org/haryana/" class="elementor-sub-item">Haryana</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1581"><a href="https://covidindia.org/himachal-pradesh/" class="elementor-sub-item">Himachal Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1440"><a href="https://covidindia.org/jammu-and-kashmir/" class="elementor-sub-item">Jammu And Kashmir</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a href="https://covidindia.org/jharkhand/" class="elementor-sub-item">Jharkhand</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593"><a href="https://covidindia.org/karnataka/" class="elementor-sub-item">Karnataka</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="https://covidindia.org/kerala/" class="elementor-sub-item">Kerala</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1471"><a href="https://covidindia.org/ladakh/" class="elementor-sub-item">Ladakh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1434"><a href="https://covidindia.org/madhya-pradesh/" class="elementor-sub-item">Madhya Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557"><a href="https://covidindia.org/maharashtra/" class="elementor-sub-item">Maharashtra</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a href="https://covidindia.org/manipur/" class="elementor-sub-item">Manipur</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1610"><a href="https://covidindia.org/meghalaya/" class="elementor-sub-item">Meghalaya</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1616"><a href="https://covidindia.org/mizoram/" class="elementor-sub-item">Mizoram</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2891"><a href="https://covidindia.org/nagaland/" class="elementor-sub-item">Nagaland</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="https://covidindia.org/odisha/" class="elementor-sub-item">Odisha</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1668"><a href="https://covidindia.org/puducherry/" class="elementor-sub-item">Puducherry</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1457"><a href="https://covidindia.org/punjab/" class="elementor-sub-item">Punjab</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="https://covidindia.org/rajasthan/" class="elementor-sub-item">Rajasthan</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2895"><a href="https://covidindia.org/sikkim/" class="elementor-sub-item">Sikkim</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="https://covidindia.org/tamil-nadu/" class="elementor-sub-item">Tamil Nadu</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1642"><a href="https://covidindia.org/telangana/" class="elementor-sub-item">Telangana</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1643"><a href="https://covidindia.org/tripura/" class="elementor-sub-item">Tripura</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1464"><a href="https://covidindia.org/uttarakhand/" class="elementor-sub-item">Uttarakhand</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a href="https://covidindia.org/uttar-pradesh/" class="elementor-sub-item">Uttar Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1652"><a href="https://covidindia.org/west-bengal/" class="elementor-sub-item">West Bengal</a></li>
+</ul>
+</li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-ee18883" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1380"><a href="#" class="elementor-item elementor-item-anchor">Choose State</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1657"><a href="https://covidindia.org/andaman-and-nicobar-islands/" class="elementor-sub-item">Andaman &#038; Nicobar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1546"><a href="https://covidindia.org/andhra-pradesh/" class="elementor-sub-item">Andhra Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1497"><a href="https://covidindia.org/arunachal-pradesh/" class="elementor-sub-item">Arunachal Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1496"><a href="https://covidindia.org/assam/" class="elementor-sub-item">Assam</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1562"><a href="https://covidindia.org/bihar/" class="elementor-sub-item">Bihar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1570"><a href="https://covidindia.org/chhattisgarh/" class="elementor-sub-item">Chhattisgarh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1468"><a href="https://covidindia.org/chandigarh/" class="elementor-sub-item">Chandigarh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1662"><a href="https://covidindia.org/delhi/" class="elementor-sub-item">Delhi</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925"><a href="https://covidindia.org/dadar-nagar-haveli-and-damand-diu/" class="elementor-sub-item">Dadar &#038; Nagar Haveli And Damand &#038; Diu</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1575"><a href="https://covidindia.org/goa/" class="elementor-sub-item">Goa</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://covidindia.org/gujarat/" class="elementor-sub-item">Gujarat</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1395"><a href="https://covidindia.org/haryana/" class="elementor-sub-item">Haryana</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1581"><a href="https://covidindia.org/himachal-pradesh/" class="elementor-sub-item">Himachal Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1440"><a href="https://covidindia.org/jammu-and-kashmir/" class="elementor-sub-item">Jammu And Kashmir</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a href="https://covidindia.org/jharkhand/" class="elementor-sub-item">Jharkhand</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593"><a href="https://covidindia.org/karnataka/" class="elementor-sub-item">Karnataka</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="https://covidindia.org/kerala/" class="elementor-sub-item">Kerala</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1471"><a href="https://covidindia.org/ladakh/" class="elementor-sub-item">Ladakh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1434"><a href="https://covidindia.org/madhya-pradesh/" class="elementor-sub-item">Madhya Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557"><a href="https://covidindia.org/maharashtra/" class="elementor-sub-item">Maharashtra</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a href="https://covidindia.org/manipur/" class="elementor-sub-item">Manipur</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1610"><a href="https://covidindia.org/meghalaya/" class="elementor-sub-item">Meghalaya</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1616"><a href="https://covidindia.org/mizoram/" class="elementor-sub-item">Mizoram</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2891"><a href="https://covidindia.org/nagaland/" class="elementor-sub-item">Nagaland</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="https://covidindia.org/odisha/" class="elementor-sub-item">Odisha</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1668"><a href="https://covidindia.org/puducherry/" class="elementor-sub-item">Puducherry</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1457"><a href="https://covidindia.org/punjab/" class="elementor-sub-item">Punjab</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="https://covidindia.org/rajasthan/" class="elementor-sub-item">Rajasthan</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2895"><a href="https://covidindia.org/sikkim/" class="elementor-sub-item">Sikkim</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="https://covidindia.org/tamil-nadu/" class="elementor-sub-item">Tamil Nadu</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1642"><a href="https://covidindia.org/telangana/" class="elementor-sub-item">Telangana</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1643"><a href="https://covidindia.org/tripura/" class="elementor-sub-item">Tripura</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1464"><a href="https://covidindia.org/uttarakhand/" class="elementor-sub-item">Uttarakhand</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a href="https://covidindia.org/uttar-pradesh/" class="elementor-sub-item">Uttar Pradesh</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1652"><a href="https://covidindia.org/west-bengal/" class="elementor-sub-item">West Bengal</a></li>
+</ul>
+</li>
+</ul></nav>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9ea5059 elementor-widget elementor-widget-html" data-id="9ea5059" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+      #container {
+        min-width: 310px;
+        max-width: 1400px;
+        margin: 0 auto;
+      }
+      .loading {
+        margin-top: 10em;
+        text-align: center;
+        color: gray;
+      }
+.highcharts-background{
+    fill: #191F2B;
+
+}
+.highcharts-legend-box{
+    fill: #191F2B;
+}
+.highcharts-legend-title{
+   fill: #fff;
+}
+.highcharts-coloraxis-labels{
+    filter: #fff;
+}
+      .highcharts-credits {
+        display: none;
+      }
+
+      .highcharts-button {
+        display: none;
+      }
+
+      .highcharts-axis-title {
+        color: #000000 !important;
+        fill: #000000 !important;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .highcharts-title{
+          display: none;
+      }
+
+      .highcharts-axis-labels text {
+        font-size: 14px !important;
+        color: #fff !important;
+        fill: #fff !important;
+      }
+      .highcharts-figure,
+      .highcharts-data-table table {
+        min-width: 360px;
+        max-width: 800px;
+        margin: 1em auto;
+      }
+
+      .highcharts-data-table table {
+        font-family: Verdana, sans-serif;
+        border-collapse: collapse;
+        border: 1px solid #ebebeb;
+        margin: 10px auto;
+        text-align: center;
+        width: 100%;
+        max-width: 500px;
+      }
+      .highcharts-data-table caption {
+        padding: 1em 0;
+        font-size: 1.2em;
+        color: #555;
+      }
+      .highcharts-data-table th {
+        font-weight: 600;
+        padding: 0.5em;
+      }
+      .highcharts-data-table td,
+      .highcharts-data-table th,
+      .highcharts-data-table caption {
+        padding: 0.5em;
+      }
+      .highcharts-data-table thead tr,
+      .highcharts-data-table tr:nth-child(even) {
+        background: #f8f8f8;
+      }
+      .highcharts-data-table tr:hover {
+        background: #f1f7ff;
+      }
+      .f32 .flag {
+        vertical-align: middle !important;
+      }
+      .f44{
+        font-size: 15px;
+        font-weight: 400;
+      }
+    </style>
+<div id="container"></div>
+
+    <script>
+      $(function() {
+        // Load the data from a Google Spreadsheet
+
+        Highcharts.data({
+          googleSpreadsheetKey: "1Dw-iboUBbKkrIRRxNGiYzu3bo_eee6lu-9ag7I8Pagw",
+
+          // custom handler when the spreadsheet is parsed
+          parsed: function(columns) {
+            // Read the columns into the data array
+            var data = [];
+            $.each(columns[0], function(i, code) {
+              data.push({
+                code: code,
+                value: parseFloat(columns[2][i]),
+                name: columns[1][i],
+               deaths: columns[3][i],
+                recoveries: columns[4][i]
+                //   job: columns[3][i]
+              });
+            });
+
+            // Initiate the chart
+            $("#container").highcharts("Map", {
+              chart: {
+                  height: 800,
+                map: "countries/in/custom/in-all-disputed"
+              },
+
+              title: {
+                text: "COVID India Cases"
+              },
+
+              mapNavigation: {
+                // enabled: true,
+                buttonOptions: {
+                  verticalAlign: "bottom"
+                }
+              },
+          colorAxis: {
+          stops: [
+
+
+          [0, '#88BEFA'],
+          [0.05, '#F2F55B'],
+          [0.07, '#F35454'],
+          [0.13, '#F35454'],
+          [0.18, '#F35454'],
+          [0.35, '#8b0000'],
+          [0.40, '#8b0000'],
+          [0.6, '#8b0000'],
+          [0.71, '#271515'],
+          [1, '#271515']
+          ],
+          min: 0,
+        },
+              legend: {
+                title: {
+                  text: "Confirmed COVID Cases"
+                },
+                align: "right",
+                verticalAlign: "top",
+                valueDecimals: 0,
+                x: -10,
+                y: 90,
+                floating: true,
+                backgroundColor: "rgba(255,255,255,0.9)",
+                symbolRadius: 0,
+                symbolHeight: 14
+              },
+              tooltip: {
+                backgroundColor: "#fff",
+                borderWidth: 0,
+                shadow: false,
+                useHTML: true,
+                pointFormat:
+                  '<span class="f32"><span class="flag"></span></span>' +
+                  "<span class='f44'> <b>{point.code}<b> </span> <br /> <span class='f44' > Cases: {point.value} </span> <br /> <span class='f44'>Deaths: {point.deaths}</span> <br /> <span class='f44'> Recoveries: {point.recoveries}</span>"
+              },
+
+              series: [
+                {
+                  data: data,
+                  name: "COVID Cases",
+                  joinBy: null,
+                  animation: false,
+                  states: {
+hover: {
+                color: "#4A4A4A"
+              }
+                  },
+                  dataLabels: {
+                    enabled: true,
+                    format: "{point.job}"
+                  }
+                }
+              ], 
+        responsive: {
+          rules: [{
+              condition: {
+                  maxWidth: 510,
+                  margin: 0
+              },
+              chartOptions: {
+                chart: {
+                  height: 500,
+                },
+                legend: {
+                align: "right",
+                verticalAlign: "top",
+                valueDecimals: 0,
+                itemWidth: 100,
+                x: -3,
+                y: 50,
+                symbolRadius: 0,
+                symbolHeight: 8,
+                symbolWidth: 150
+                }
+              }
+          }]
+      }
+            });
+          }
+        });
+      });
+    </script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-86994bd elementor-widget elementor-widget-shortcode" data-id="86994bd" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+<table id="tablepress-96" class="tablepress tablepress-id-96 tablepress-responsive">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">State</th><th class="column-2">Confirmed Cases</th><th class="column-3">Recoveries</th><th class="column-4">Deaths</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Andaman and Nicobar Islands</td><td class="column-2">3604</td><td class="column-3">3378</td><td class="column-4">52</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1">Andhra Pradesh</td><td class="column-2">601462</td><td class="column-3">508088</td><td class="column-4">5177</td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1">Arunachal Pradesh</td><td class="column-2">6851</td><td class="column-3">4967</td><td class="column-4">13</td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1">Assam</td><td class="column-2">150349</td><td class="column-3">121610</td><td class="column-4">528</td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1">Bihar</td><td class="column-2">164224</td><td class="column-3">149722</td><td class="column-4">855</td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Chandigarh</td><td class="column-2">9256</td><td class="column-3">6062</td><td class="column-4">106</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1">Chhattisgarh</td><td class="column-2">77775</td><td class="column-3">41111</td><td class="column-4">628</td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1">Dadar &amp; Nagar Haveli; Daman &amp; Diu</td><td class="column-2">2810</td><td class="column-3">2566</td><td class="column-4">2</td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1">Delhi</td><td class="column-2">234701</td><td class="column-3">198103</td><td class="column-4">4877</td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1">Goa</td><td class="column-2">26783</td><td class="column-3">20844</td><td class="column-4">327</td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1">Gujarat</td><td class="column-2">118926</td><td class="column-3">99681</td><td class="column-4">3270</td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Haryana</td><td class="column-2">103808</td><td class="column-3">81725</td><td class="column-4">1069</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1">Himachal Pradesh</td><td class="column-2">11190</td><td class="column-3">6919</td><td class="column-4">97</td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1">Jammu and Kashmir</td><td class="column-2">59711</td><td class="column-3">38521</td><td class="column-4">951</td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1">Jharkhand</td><td class="column-2">67100</td><td class="column-3">52807</td><td class="column-4">590</td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1">Karnataka</td><td class="column-2">494356</td><td class="column-3">383077</td><td class="column-4">7629</td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1">Kerala</td><td class="column-2">122214</td><td class="column-3">87341</td><td class="column-4">489</td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">Ladakh</td><td class="column-2">3576</td><td class="column-3">2558</td><td class="column-4">47</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1">Lakshadweep</td><td class="column-2">0</td><td class="column-3">0</td><td class="column-4">0</td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1">Madhya Pradesh</td><td class="column-2">97906</td><td class="column-3">74398</td><td class="column-4">1877</td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1">Maharashtra</td><td class="column-2">1145840</td><td class="column-3">812354</td><td class="column-4">31734</td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1">Manipur</td><td class="column-2">8430</td><td class="column-3">6539</td><td class="column-4">51</td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1">Meghalaya</td><td class="column-2">4361</td><td class="column-3">2343</td><td class="column-4">29</td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">Mizoram</td><td class="column-2">1534</td><td class="column-3">949</td><td class="column-4">0</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1">Nagaland</td><td class="column-2">5306</td><td class="column-3">4049</td><td class="column-4">15</td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1">Odisha</td><td class="column-2">167161</td><td class="column-3">133466</td><td class="column-4">722</td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1">Puducherry</td><td class="column-2">21428</td><td class="column-3">16253</td><td class="column-4">431</td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1">Punjab</td><td class="column-2">90032</td><td class="column-3">65818</td><td class="column-4">2646</td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">Rajasthan</td><td class="column-2">109473</td><td class="column-3">90685</td><td class="column-4">1293</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1">Sikkim</td><td class="column-2">2274</td><td class="column-3">1789</td><td class="column-4">19</td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1">Tamil Nadu</td><td class="column-2">525420</td><td class="column-3">470192</td><td class="column-4">8618</td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1">Telangana</td><td class="column-2">167046</td><td class="column-3">135357</td><td class="column-4">1016</td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1">Tripura</td><td class="column-2">20969</td><td class="column-3">13559</td><td class="column-4">228</td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">Uttar Pradesh</td><td class="column-2">336294</td><td class="column-3">263288</td><td class="column-4">4771</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1">Uttarakhand</td><td class="column-2">37139</td><td class="column-3">24810</td><td class="column-4">460</td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1">West Bengal</td><td class="column-2">215580</td><td class="column-3">187061</td><td class="column-4">4183</td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1">Unassigned</td><td class="column-2">0</td><td class="column-3">0</td><td class="column-4">0</td>
+</tr>
+</tbody>
+<tfoot>
+<tr class="row-39 odd">
+	<th class="column-1">Total</th><th class="column-2">5214889</th><th class="column-3">4111990</th><th class="column-4">84800</th>
+</tr>
+</tfoot>
+</table>
+</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3e5564d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3e5564d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ebeb161 elementor-column elementor-col-50 elementor-inner-column" data-id="ebeb161" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7a8be22 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="7a8be22" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="922" height="1024" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20922%201024'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/08/poll-icon.png" class="attachment-large size-large lazy" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6040378 elementor-column elementor-col-50 elementor-inner-column" data-id="6040378" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4ef93b6 elementor-widget elementor-widget-heading" data-id="4ef93b6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Today's Poll</h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a0eb48d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="a0eb48d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-211e8d1 elementor-column elementor-col-100 elementor-inner-column" data-id="211e8d1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6d2afcb elementor-widget elementor-widget-text-editor" data-id="6d2afcb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>Do you think you have/had COVID?</h2></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e1b2573 elementor-align-center elementor-widget elementor-widget-button" data-id="e1b2573" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://covidindia.org/poll/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Vote or See Results</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a7ddb68 elementor-column elementor-col-50 elementor-top-column" data-id="a7ddb68" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-973ae05 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="973ae05" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f756fa9 elementor-column elementor-col-100 elementor-inner-column" data-id="f756fa9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-adc9849 elementor-widget elementor-widget-heading" data-id="adc9849" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">What's New</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2aa9ba3 elementor-widget elementor-widget-text-editor" data-id="2aa9ba3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul><li><a href="https://covidindia.org/best-covid19-research-papers/"><span style="color: #ffffff;">Best of</span> COVID-19 research papers</a></li><li><a href="https://covidindia.org/poll/" target="_blank" rel="noopener"><span style="color: #ffffff;">Do you think you have/had COVID? &#8211; </span>Vote Now</a></li></ul></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-8c05e01 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="8c05e01" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-16a6caa elementor-column elementor-col-100 elementor-inner-column" data-id="16a6caa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-74b98e6 elementor-widget elementor-widget-heading" data-id="74b98e6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Key Insights</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f34913b elementor-widget elementor-widget-text-editor" data-id="f34913b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h2>India Surpassed 5 Million COVID-19 Cases</h2></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d2d37dc elementor-widget elementor-widget-image" data-id="d2d37dc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://covidindia.org/wp-content/uploads/2020/09/India-surpassed-5-million-cases.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="India surpassed 5 million cases">
+							<img width="600" height="371" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20371'%3E%3C/svg%3E" data-src="https://covidindia.org/wp-content/uploads/2020/09/India-surpassed-5-million-cases.png" class="attachment-large size-large lazy" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cd5cb29 elementor-widget elementor-widget-text-editor" data-id="cd5cb29" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>On Sept 15, India reported 91,209 new cases taking the country’s total to 5020625 cases. With a daily spike of over 90k cases, India records the highest number of daily new cases in the world. COVID cases in India are growing at a rapid pace, and almost all the hotspot regions of the country are still seeing a rising curve with no drop in the number of daily cases reported.</p><p>At current growth rates, India is growing about 55,000 cases per day more than the US, and would take only a month to overtake the United States to become the worst-hit nation by this pandemic.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cc16711 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="cc16711" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-repeater-item-fb6153e" href="https://api.whatsapp.com/send?text=*India%20Surpassed%205%20Million%20COVID-19%20Cases.*%20On%20Sept%2015,%20India%20reported%2091,209%20new%20cases%20taking%20the%20country’s%20total%20to%205020625%20cases.%20At%20current%20growth%20rates,%20it%20would%20take%20only%20a%20month%20to%20overtake%20the%20United%20States%20to%20become%20the%20worst-hit%20nation%20by%20this%20pandemic.%20Read%20more%20-%20https://covidindia.org/india-surpassed-5-million-covid-19-cases/" target="_blank">
+					<span class="elementor-screen-only">Whatsapp</span>
+					<i class="fab fa-whatsapp"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-8058323" href="https://www.facebook.com/sharer/sharer.php?u=https://covidindia.org/india-surpassed-5-million-covid-19-cases/" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fab fa-facebook"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-2f014b3" href="https://twitter.com/intent/tweet?&#038;text=On%20Sept%2015,%20India%20reported%2091,209%20new%20cases%20taking%20the%20country’s%20total%20to%205020625%20cases.%20At%20current%20growth%20rates,%20it%20would%20take%20only%20a%20month%20to%20overtake%20the%20United%20States%20to%20become%20the%20worst-hit%20nation%20by%20this%20pandemic.%20Read%20more%20-%20https://covidindia.org/india-surpassed-5-million-covid-19-cases/" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-24f3ffe elementor-widget elementor-widget-text-editor" data-id="24f3ffe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Share with a friend</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9cd80cd elementor-widget elementor-widget-text-editor" data-id="9cd80cd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: right;"><a href="https://covidindia.org/key-insights/">See more insights &gt;</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				</div><!-- .entry-content -->
+
+			</div><!-- .inside-article -->
+</article><!-- #post-## -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	
+	</div><!-- #content -->
+</div><!-- #page -->
+
+
+<div class="site-footer footer-bar-active footer-bar-align-center">
+			<div data-elementor-type="footer" data-elementor-id="3434" class="elementor elementor-3434 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<section class="elementor-element elementor-element-ed06e5b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ed06e5b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7a740e6 elementor-column elementor-col-100 elementor-top-column" data-id="7a740e6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b47078e elementor-widget elementor-widget-text-editor" data-id="b47078e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;"><strong>Contact Us At</strong><br />&#8220;<span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:contact@covidindia.org">contact@covidindia.org</a></span>&#8220;</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7911f10 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="7911f10" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-36c42bf" href="https://www.instagram.com/covidindia_org/" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter-square elementor-repeater-item-11402eb" href="https://twitter.com/CovidindiaO/" target="_blank">
+					<span class="elementor-screen-only">Twitter-square</span>
+					<i class="fab fa-twitter-square"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-square elementor-repeater-item-8631e74" href="https://www.facebook.com/COVIDIndia.org/" target="_blank">
+					<span class="elementor-screen-only">Facebook-square</span>
+					<i class="fab fa-facebook-square"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-0d66513" href="https://www.youtube.com/channel/UCtzotxR-h1wbIsilarGId9w" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fab fa-youtube"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-e04715a" href="https://www.linkedin.com/company/covidindia-org/" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8ef1aea elementor-widget elementor-widget-text-editor" data-id="8ef1aea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">2020 copyright COVIDIndia.org</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7ccbede elementor-widget elementor-widget-text-editor" data-id="7ccbede" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: center;">Powered by Sandbox Innovations</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+					</div>
+		</div>
+		</div>
+		</div><!-- .site-footer -->
+
+		<nav id="generate-slideout-menu" class="main-navigation slideout-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope style="display: none;">
+			<div class="inside-navigation grid-container grid-parent">
+				<button class="slideout-exit"><span class="screen-reader-text">Close</span></button><div class="main-nav"><ul id="menu-primary-peak" class=" slideout-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1941"><a href="#">Tracking COVID19<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-304 current_page_item menu-item-320"><a href="https://covidindia.org/" aria-current="page">Tracking COVID In India</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3172"><a href="https://covidindia.org/state-wise-covid-info/">COVID Info By State</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://covidindia.org/testing/">Testing Centers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764"><a href="https://covidindia.org/treatment/">Treatment</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://covidindia.org/quarantine/">Quarantine</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3127"><a href="https://covidindia.org/travel-guidelines/">Rules &#038; Guidelines For Travel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2737"><a href="https://covidindia.org/current-rules-and-regulations/">Current Rules &#038; Guidelines</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="https://covidindia.org/for-workplace/">Rules &#038; Guidelines For Workplaces</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031"><a href="https://covidindia.org/covid-19-prevention/">Rules &#038; Guidelines For RWA&#8217;s/Societies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942"><a href="https://covidindia.org/world-current-situation/">COVID Global Tracker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1536"><a href="#">Understanding COVID<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://covidindia.org/biology-and-treatment/">Biology Of SARS-COV-2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3987"><a href="https://covidindia.org/best-covid19-research-papers/">Best Research On COVID</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461"><a href="https://covidindia.org/protect-yourself/">How To Protect Yourself</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2907"><a href="https://covidindia.org/how-stuff-works/">How Medical Stuff Works</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://covidindia.org/key-insights/">Key Insights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1058"><a href="#">#IndiaFightsCorona<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a href="https://covidindia.org/covid-awareness-videos/">COVID Awareness Videos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3832"><a href="https://covidindia.org/share-your-story/">COVID-19 Survivor Stories</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2774"><a href="https://covidindia.org/fake-news-detective/">Fake News Detective</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3417"><a href="https://covidindia.org/poll/">India Speaks Polls</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3244"><a href="#">CIO Response<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4053"><a href="https://covidindia.org/open-data/">COVID Data</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3245"><a href="https://covidindia.org/find-medical-services/">Find Medical Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3722"><a href="https://covidindia.org/partners/">Partners</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3418"><a href="https://covidindia.org/donation/">Donate</a></li>
+</ul>
+</li>
+</ul></div>			</div><!-- .inside-navigation -->
+		</nav><!-- #site-navigation -->
+
+					<div class="slideout-overlay">
+							</div>
+		<script type="text/javascript" id="sns_global_scripts">let currentUpdateTime = '6:00 pm';
+let nextUpdateTime = '8:00 pm',
+date = '28-July'
+testD = '17-September',
+CT = currentUpdateTime,
+NT = nextUpdateTime,
+global = document.querySelectorAll('.global'),
+globaltop = document.querySelectorAll('.globaltop'),
+
+
+global.forEach(globe => {
+  globe.innerHTML = `Updated on ${date} ${CT}`
+})
+  
+globaltop.forEach(globe => {
+  globe.innerHTML = `Cases updated on ${date}, ${CT}; INC in 24h; Tests as of ${testD}; next update ${NT};`
+})
+  
+
+  
+let testing = document.querySelectorAll('.tests');
+
+testing.forEach(globe => {
+	globe.innerHTML = "6,15,72,343"
+})
+  
+let individual = document.querySelectorAll('.indtest');
+
+individual.forEach(globe => {
+	globe.innerHTML = "10,06,615"
+})
+
+  
+let testurl = document.querySelectorAll('.testurl');
+
+testurl.forEach(globe => {$
+	globe.href = "https://www.icmr.gov.in/"
+})
+  
+
+let testdate = document.querySelectorAll('.testdate');
+
+testdate.forEach(globe => {
+	globe.innerHTML = `${testD}`
+})
+  
+let gvtlab = document.querySelectorAll('.gvtlab');
+
+gvtlab.forEach(globe => {
+	globe.innerHTML = "1060"
+})
+ 
+  
+let pvtlab = document.querySelectorAll('.pvtlab');
+
+pvtlab.forEach(globe => {
+	globe.innerHTML = "704"
+})
+  
+let alllab = document.querySelectorAll('.alllab');
+
+alllab.forEach(globe => {
+	globe.innerHTML = "1764"
+})
+  
+let testcap = document.querySelectorAll('.testcap');
+
+testcap.forEach(globe => {
+	globe.innerHTML = "300,000"
+})
+
+let testcapdate = document.querySelectorAll('.testcapdate');
+
+testcapdate.forEach(globe => {
+	globe.innerHTML = "July 6"
+})
+  
+let testcapurl = document.querySelectorAll('.testcapurl');
+
+testcapurl.forEach(globe => {
+	globe.href = "https://www.outlookindia.com/website/story/covid-19-tests-cross-1-crore-in-india-testing-capacity-raised-to-3-lakh-per-day-icmr/356139"
+})
+
+let gvturl = document.querySelectorAll('.gvturl');
+
+gvturl.forEach(globe => {
+	globe.href = "https://www.icmr.gov.in/pdf/covid/labs/COVID_Testing_Labs_17092020.pdf"
+})
+  
+let pvturl = document.querySelectorAll('.pvturl');
+
+pvturl.forEach(globe => {
+	globe.href = "https://www.icmr.gov.in/pdf/covid/labs/COVID_Testing_Labs_17092020.pdf"
+})
+
+
+  </script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRPZRXW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRPZRXW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript'>
+/* <![CDATA[ */
+var offSide = {"side":"right"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/gp-premium/menu-plus/functions/js/offside.min.js?ver=1.8.3'></script>
+<!--[if lte IE 11]>
+<script type='text/javascript' src='https://covidindia.org/wp-content/themes/generatepress/js/classList.min.js?ver=2.4.1'></script>
+<![endif]-->
+<script type='text/javascript' src='https://covidindia.org/wp-content/themes/generatepress/js/menu.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/themes/generatepress/js/a11y.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/themes/generatepress/js/dropdown-click.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/tablepress/js/jquery.datatables.min.js?ver=1.12'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.3'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/covidindia.org\/wp-admin\/admin-ajax.php","nonce":"f7aaf2f561","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/covidindia.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.3'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"https:\/\/covidindia.org\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":304,"title":"COVID-19%20Tracker%20Updates%20For%20India%20For%20State%20Wise%20%26%20District%20Wise%20Data","excerpt":"","featuredImage":"https:\/\/covidindia.org\/wp-content\/uploads\/2020\/06\/COVIDIndia-Image-compressor.jpg"}};
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetElements = {"ajaxUrl":"https:\/\/covidindia.org\/wp-admin\/admin-ajax.php","isMobile":"true","templateApiUrl":"https:\/\/covidindia.org\/wp-json\/jet-elements-api\/v1\/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetPopupData = {"elements_data":{"sections":[],"columns":[],"widgets":[]},"version":"1.4.0","ajax_url":"https:\/\/covidindia.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.min.js?ver=1.4.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetTabsSettings = {"ajaxurl":"https:\/\/covidindia.org\/wp-admin\/admin-ajax.php","isMobile":"true","templateApiUrl":"https:\/\/covidindia.org\/wp-json\/jet-tabs-api\/v1\/elementor-template","devMode":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetTricksSettings = {"elements_data":{"sections":{"9fd23ce":{"view_more":false,"particles":"false","particles_json":""},"62220be":{"view_more":false,"particles":"false","particles_json":""},"7181939":{"view_more":false,"particles":"false","particles_json":""},"63d718d":{"view_more":false,"particles":"false","particles_json":""},"9e8fa2a":{"view_more":false,"particles":"false","particles_json":""},"b2dcb59":{"view_more":false,"particles":"false","particles_json":""},"53548dd":{"view_more":false,"particles":"false","particles_json":""},"3090625":{"view_more":false,"particles":"false","particles_json":""},"3044600":{"view_more":false,"particles":"false","particles_json":""},"baab1fd":{"view_more":false,"particles":"false","particles_json":""},"3e5564d":{"view_more":false,"particles":"false","particles_json":""},"a0eb48d":{"view_more":false,"particles":"false","particles_json":""},"973ae05":{"view_more":false,"particles":"false","particles_json":""},"8c05e01":{"view_more":false,"particles":"false","particles_json":""},"ed06e5b":{"view_more":false,"particles":"false","particles_json":""}},"columns":[],"widgets":{"bea9861":[],"2f25fa4":[],"4fd61f5":[],"938a5d4":[],"7257b26":[],"bd5ba67":[],"0817dcb":[],"26b2a74":[],"aceece0":[],"f032d3d":[],"74698c8":[],"6f2c663":[],"1801ce0":[],"0ac43cf":[],"5d0da79":[],"d9536c3":[],"d112f0a":[],"0fc4aa0":[],"1fe503d":[],"c1efbc4":[],"578f531":[],"0093072":[],"7c8951d":[],"150bcff":[],"700a9e3":[],"2df2689":[],"ee18883":[],"9ea5059":[],"86994bd":[],"7a8be22":[],"4ef93b6":[],"6d2afcb":[],"e1b2573":[],"adc9849":[],"2aa9ba3":[],"74b98e6":[],"f34913b":[],"d2d37dc":[],"cd5cb29":[],"cc16711":[],"24f3ffe":[],"9cd80cd":[],"b47078e":[],"7911f10":[],"8ef1aea":[],"7ccbede":[]}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://covidindia.org/wp-content/plugins/jet-tricks/assets/js/jet-tricks-frontend.js?ver=1.2.12'></script>
+<script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure";
+			}());</script><script type="text/javascript">
+jQuery(document).ready(function($){
+$('#tablepress-96').dataTable({"order":[],"orderClasses":false,"stripeClasses":["even","odd"],"pagingType":"simple","info":false});
+});
+</script>
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://covidindia.org/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 284/324 objects using disk
+Page Caching using disk: enhanced 
+Lazy Loading
+Database Caching 15/37 queries in 0.039 seconds using disk
+
+Served from: covidindia.org @ 2020-09-18 11:51:09 by W3 Total Cache
+-->
